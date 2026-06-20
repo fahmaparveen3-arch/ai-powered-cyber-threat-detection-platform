@@ -111,12 +111,6 @@ AI-Powered-Cyber-Threat-Detection/
 
 ## Installation
 
-### Clone Repository
-
-git clone https://github.com/YOUR_USERNAME/ai-powered-cyber-threat-detection-platform.git
-
-cd ai-powered-cyber-threat-detection-platform
-
 ### Install Dependencies
 
 pip install -r requirements.txt
